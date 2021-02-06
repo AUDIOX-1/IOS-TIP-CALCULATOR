@@ -1,17 +1,20 @@
-# Pre-work - *IOS TIP CALCULATOR*
+# Pre-work - IOS TIP CALCULATOR
 
-**IOS TIP CALCULATOR ** is a tip calculator application for iOS.
+IOS TIP CALCULATOR is a tip calculator application for iOS.
 
-Submitted by: **AUDIOX-1**
+Submitted by: DAVID CHEN
 
-Time spent: **1** hours spent in total
+Time spent: 1 hours spent in total
+
+9+ hours spend for fixing problems. SEE NOTES FOR DETAILS.
+
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -28,17 +31,22 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/kzfh3AF.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [EZGIF](https://ezgif.)
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Try to add some features such as tip slider, tip splitting, currency convertor and keypad;
+But there are some problems needed to be fixed. Due day come soon; (9+ hours spend for fixing problems)
+The result may be better if know this project earlier, and have some more time to solve the problems. 
+Let me submit this assignment on time and continue to update later.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2021 David Chen
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

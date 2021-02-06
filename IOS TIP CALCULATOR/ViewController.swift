@@ -18,6 +18,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        //Try to add some features such as tip slider, tip splitting, currency convertor and keypad.
+        //But there are some problems needed to be fixed. Due day come soon.
+        //Let me submit this assignment on time and continue to update later.
     }
 
     @IBAction func calculateTip(_ sender: Any) {
